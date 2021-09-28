@@ -29,6 +29,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
+#define OPJ_SKIP_POISON
 #include "opj_includes.h"
 
 #ifdef _WIN32
